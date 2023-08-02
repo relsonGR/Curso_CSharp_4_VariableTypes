@@ -1,0 +1,10 @@
+D:\CURSOS\Curso_CSharp_4_VariableTypes\bin\Debug\Curso_CSharp_4_VariableTypes.exe.config
+D:\CURSOS\Curso_CSharp_4_VariableTypes\bin\Debug\Curso_CSharp_4_VariableTypes.exe
+D:\CURSOS\Curso_CSharp_4_VariableTypes\bin\Debug\Curso_CSharp_4_VariableTypes.pdb
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.csproj.AssemblyReference.cache
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.csproj.SuggestedBindingRedirects.cache
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.Properties.Resources.resources
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.csproj.GenerateResource.cache
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.csproj.CoreCompileInputs.cache
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.exe
+D:\CURSOS\Curso_CSharp_4_VariableTypes\obj\Debug\Curso_CSharp_4_VariableTypes.pdb
